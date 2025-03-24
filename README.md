@@ -1,6 +1,6 @@
 # Build *Asteroids* with Pygame
 
-The second guided project from <boot.dev>, focusing on building a clone of the classic Asteroids game using Pygame and object-oriented programming concepts.
+The second guided project from [boot.dev](https://boot.dev), focusing on building a clone of the classic Asteroids game using Pygame and object-oriented programming concepts.
 
 Source: <https://www.boot.dev/courses/build-asteroids-python>
 
