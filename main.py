@@ -10,8 +10,9 @@ def main():
     pygame.init()
     screen = pygame.display.set_mode((cons.SCREEN_WIDTH, cons.SCREEN_HEIGHT))
     clock = pygame.time.Clock()
-    player = Player(x=cons.SCREEN_WIDTH / 2, y=cons.SCREEN_HEIGHT / 2)
     dt = 0
+
+    player = Player(x=cons.SCREEN_WIDTH / 2, y=cons.SCREEN_HEIGHT / 2)
 
     while True:
         for event in pygame.event.get():
